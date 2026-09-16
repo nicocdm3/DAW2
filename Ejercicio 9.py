@@ -36,5 +36,5 @@ while termino < 1800:
     i+=1
     print(f'{i} : Valor -> {termino}')
     suma += termino
-
+aa
 print(f'La suma total es de: {suma}')
