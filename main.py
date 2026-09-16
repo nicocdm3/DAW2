@@ -67,7 +67,7 @@ def ejercicio11():
         print(estrella)
     
     
-    
+
     
 
 if __name__ == '__main__':
